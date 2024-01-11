@@ -1,1 +1,4 @@
--e "*.in\n*.out\n*.pyc" 
+# Ignore files ending with .in, .out, and .pyc
+*.in
+*.out
+*.pyc
